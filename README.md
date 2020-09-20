@@ -4,7 +4,7 @@
 ## task_1_upto_layer_15.ipynb
 ### 1. This notebook contains simulation starting from single layer circuit to 15 layers circuit.
 ### 2. all the circuits has been put together by looping over the no. of layers, and finally overall plot of minimum distance as a function of no. of layers in the specific circuit has been shown (no seperate plot for each circuit has been shown here, its in the next one)
-### 3. Notebook is also available at [kaggle](https://www.kaggle.com/senpinaki222/task-1-layer-15)
+### 3. Notebook is also available at [Kaggle](https://www.kaggle.com/senpinaki222/task-1-layer-15)
 
 
 ## task_1_upto_layer_12_plotted_each_layer.ipynb
