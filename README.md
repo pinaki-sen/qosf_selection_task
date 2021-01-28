@@ -1,5 +1,6 @@
 # qosf_selection_task_1
 
+## For detailed discussion you can follolw this [blog](https://medium.com/quantumcomputingindia/optimizing-a-variational-quantum-circuit-studying-the-character-of-the-optimized-cost-as-a-a8bac2e9ba46)
 
 ## task_1_upto_layer_15.ipynb
 ### 1. This notebook contains simulation starting from single layer circuit to 15 layers circuit.
